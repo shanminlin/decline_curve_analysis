@@ -13,5 +13,5 @@ forest algorithm in outlier filtering.
 
 This project contains the following files:
 
--`DCA.py` - main script for curve fitting, prediction and evalution.
--`test.py` - script for unit tests.
+- `DCA.py` - main script for curve fitting, prediction and evalution.
+- `test.py` - script for unit tests.
